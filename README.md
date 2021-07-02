@@ -1,2 +1,2 @@
-# Titanic
- Titanic from Kaggle
+# Titanic - Machine Learning from Disaster
+  * Titanic from Kaggle

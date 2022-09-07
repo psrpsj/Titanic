@@ -1,2 +1,5 @@
 submission.csv
 .DS_Store
+catboost_info/
+logs.log
+submission_catboost.csv

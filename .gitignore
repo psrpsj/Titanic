@@ -3,3 +3,4 @@ submission.csv
 catboost_info/
 logs.log
 submission_catboost.csv
+submission_kfold.csv

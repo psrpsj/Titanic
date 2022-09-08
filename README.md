@@ -8,7 +8,7 @@ Titanic from Kaggle
 
 ## 2. Code Structure
 ``` text
-├── dataset (not in repo)
+├── dataset
 |   ├── train.csv
 |   └── test.csv 
 └── titanic.ipynb

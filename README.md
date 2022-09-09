@@ -2,7 +2,7 @@
 Titanic from Kaggle
 ## 1. Project Overview
   - 목표
-    - 승객 생존여부 예측(1: Taken, 0: Not Taken)
+    - 승객 생존여부 예측(1: Not Survived, 0: Survived)
   - 모델
     - Extra Tree Classifier, Random Forest, Catboost등 다양한 분류 모델 실험
 
